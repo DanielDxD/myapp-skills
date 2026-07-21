@@ -22,6 +22,7 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | Skill | Uso |
 |-------|-----|
 | `cinematographic-websites` | Sites cinematográficos com Lenis, GSAP e ScrollTrigger |
+| `apple-inspired-websites` | Sites de produto estilo apple.com (scrub, carrosséis, comparativos) |
 | `project-discovery` | Mapear stack, arquitetura e riscos antes de editar |
 | `nextjs-architecture` | App Router, server/client, cache e features |
 | `react-component-engineering` | Componentes React reutilizáveis e acessíveis |
