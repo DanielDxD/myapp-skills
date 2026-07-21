@@ -21,6 +21,7 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 
 | Skill | Uso |
 |-------|-----|
+| `website-copywriting` | Copy humana, específica e persuasiva para sites e interfaces |
 | `cinematographic-websites` | Sites cinematográficos com Lenis, GSAP e ScrollTrigger |
 | `apple-inspired-websites` | Sites de produto estilo apple.com (scrub, carrosséis, comparativos) |
 | `project-discovery` | Mapear stack, arquitetura e riscos antes de editar |
