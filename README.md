@@ -30,6 +30,7 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `reactjs-application-development` | SPAs React (Vite, Router, server state) |
 | `react-native-development` | Expo / React Native, navegação e performance mobile |
 | `swiftui-development` | Apps e features SwiftUI |
+| `vapor-swift` | APIs e backends server-side Swift com Vapor 4 e Fluent |
 | `mvvm-architecture` | Separação View / ViewModel / Model |
 | `typescript-strict` | Tipagem estrita e validação na borda |
 | `api-design` | Contratos HTTP, erros, paginação e authz |
