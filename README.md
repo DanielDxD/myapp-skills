@@ -31,10 +31,18 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `react-native-development` | Expo / React Native, navegação e performance mobile |
 | `swiftui-development` | Apps e features SwiftUI |
 | `vapor-swift` | APIs e backends server-side Swift com Vapor 4 e Fluent |
+| `golang-apis` | APIs HTTP em Go com Gin |
+| `golang-goroutines` | Concorrência em Go: goroutines, channels e context |
+| `golang-websocket` | WebSockets em Go com Gin e gorilla/websocket |
+| `golang-unit-testing` | Testes unitários e de handler em Go |
+| `golang-scylladb` | Integração Go com ScyllaDB (gocql/gocqlx) |
+| `scylladb` | Modelagem CQL, partition keys e operações ScyllaDB |
 | `mvvm-architecture` | Separação View / ViewModel / Model |
 | `typescript-strict` | Tipagem estrita e validação na borda |
 | `api-design` | Contratos HTTP, erros, paginação e authz |
 | `database-prisma` | Schema, migrations e queries Prisma |
+| `database-drizzle` | Schema, migrations e queries Drizzle ORM |
+| `tauri` | Apps desktop com Tauri 2 |
 | `authentication-authorization` | Sessões, RBAC, ownership e cookies seguros |
 | `testing-fullstack` | Vitest, Testing Library e Playwright |
 | `web-performance` | Core Web Vitals e otimização mensurável |
