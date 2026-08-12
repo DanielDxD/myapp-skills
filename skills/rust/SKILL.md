@@ -100,6 +100,7 @@ crates/
 ## Integração com outras skills
 
 - Idiomas e qualidade contínua: `rust-best-practices`
+- Testes unitários e de integração: `rust-unit-testing`
 - HTTP com Axum: `axum`
 - Axum endurecido para produção: `rust-axum-production`
 - Contratos HTTP genéricos: `api-design`

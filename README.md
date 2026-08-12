@@ -35,6 +35,7 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `axum` | APIs HTTP em Rust com Axum, Tower e extractors |
 | `rust-best-practices` | Idioms, Clippy, API design e hygiene de crates Rust |
 | `rust-axum-production` | Axum endurecido para produção (shutdown, observabilidade, deploy) |
+| `rust-unit-testing` | Testes unitários e de integração em Rust com cargo test |
 | `golang-apis` | APIs HTTP em Go com Gin |
 | `golang-goroutines` | Concorrência em Go: goroutines, channels e context |
 | `golang-websocket` | WebSockets em Go com Gin e gorilla/websocket |
