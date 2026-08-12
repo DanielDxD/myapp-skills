@@ -42,10 +42,15 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `rust-axum-production` | Axum endurecido para produção (shutdown, observabilidade, deploy) |
 | `rust-unit-testing` | Testes unitários e de integração em Rust com cargo test |
 | `golang-apis` | APIs HTTP em Go com Gin |
+| `golang-microservices` | Microsserviços em Go (HTTP/gRPC, mensageria, outbox) |
 | `golang-goroutines` | Concorrência em Go: goroutines, channels e context |
 | `golang-websocket` | WebSockets em Go com Gin e gorilla/websocket |
 | `golang-unit-testing` | Testes unitários e de handler em Go |
 | `golang-scylladb` | Integração Go com ScyllaDB (gocql/gocqlx) |
+| `nestjs-microservices` | Microsserviços NestJS (transporters, patterns, hybrid) |
+| `rust-microservices` | Microsserviços em Rust (Axum/tonic, mensageria, outbox) |
+| `microservices-architecture` | Arquitetura de microsserviços: limites, dados, eventos, ops |
+| `terraform` | Infraestrutura como código com Terraform |
 | `scylladb` | Modelagem CQL, partition keys e operações ScyllaDB |
 | `mvvm-architecture` | Separação View / ViewModel / Model |
 | `typescript-strict` | Tipagem estrita e validação na borda |
