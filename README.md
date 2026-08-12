@@ -30,6 +30,11 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `reactjs-application-development` | SPAs React (Vite, Router, server state) |
 | `react-native-development` | Expo / React Native, navegação e performance mobile |
 | `swiftui-development` | Apps e features SwiftUI |
+| `swift-testing` | Testes Swift Testing (unitário) + XCUITest (interface) |
+| `android-development` | Apps Android nativos com Kotlin e Jetpack |
+| `jetpack-compose` | UI Android com Jetpack Compose e Material 3 |
+| `android-unit-testing` | Testes unitários Android/Kotlin (ViewModel, coroutines, fakes) |
+| `better-mobile-interface` | UI mobile moderna e consistente (Compose + SwiftUI, light/dark) |
 | `vapor-swift` | APIs e backends server-side Swift com Vapor 4 e Fluent |
 | `rust` | Linguagem Rust: ownership, async, crates e tooling Cargo |
 | `axum` | APIs HTTP em Rust com Axum, Tower e extractors |

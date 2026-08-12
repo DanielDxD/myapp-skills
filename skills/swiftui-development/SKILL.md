@@ -5,7 +5,7 @@ description: Desenvolve interfaces SwiftUI com composição de views, Observatio
 
 # SwiftUI Development
 
-Composição declarativa, estado previsível e concorrência segura. Prefira views pequenas e ViewModels testáveis quando o projeto usa MVVM.
+Composição declarativa, estado previsível e concorrência segura. Prefira views pequenas e ViewModels testáveis quando o projeto usa MVVM. Estilo visual, tokens e paridade light/dark: `better-mobile-interface`.
 
 ## Composição
 
@@ -13,6 +13,7 @@ Composição declarativa, estado previsível e concorrência segura. Prefira vie
 - Extraia subviews e `ViewModifier`s em vez de bodies gigantes.
 - Prefira composição a herança.
 - Containers de layout (`VStack`, `Grid`, `Layout`) com spacing do design system do app.
+- Testes: `swift-testing` (Swift Testing + XCUITest).
 
 ## Estado
 
