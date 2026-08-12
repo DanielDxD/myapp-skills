@@ -35,11 +35,15 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `jetpack-compose` | UI Android com Jetpack Compose e Material 3 |
 | `android-unit-testing` | Testes unitários Android/Kotlin (ViewModel, coroutines, fakes) |
 | `better-mobile-interface` | UI mobile moderna e consistente (Compose + SwiftUI, light/dark) |
+| `better-web-interface` | Design e consistência de interfaces web |
+| `design-system` | Tokens, componentes, patterns e governança de design system |
+| `storybook-docs` | Stories CSF, Docs/Autodocs e documentação viva no Storybook |
 | `vapor-swift` | APIs e backends server-side Swift com Vapor 4 e Fluent |
 | `rust` | Linguagem Rust: ownership, async, crates e tooling Cargo |
 | `axum` | APIs HTTP em Rust com Axum, Tower e extractors |
 | `rust-best-practices` | Idioms, Clippy, API design e hygiene de crates Rust |
 | `rust-axum-production` | Axum endurecido para produção (shutdown, observabilidade, deploy) |
+| `rust-axum-websocket` | WebSockets em Rust com Axum |
 | `rust-unit-testing` | Testes unitários e de integração em Rust com cargo test |
 | `golang-apis` | APIs HTTP em Go com Gin |
 | `golang-microservices` | Microsserviços em Go (HTTP/gRPC, mensageria, outbox) |
@@ -52,6 +56,12 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `microservices-architecture` | Arquitetura de microsserviços: limites, dados, eventos, ops |
 | `terraform` | Infraestrutura como código com Terraform |
 | `scylladb` | Modelagem CQL, partition keys e operações ScyllaDB |
+| `elasticsearch` | Indexação, Query DSL e aggregations Elasticsearch |
+| `floci` | Emulador local AWS (Floci) para dev e CI |
+| `ollama-api` | API Ollama (chat, stream, OpenAI-compatible) |
+| `claude-api` | API Anthropic Claude (Messages, tools, stream) |
+| `chatgpt-api` | API OpenAI ChatGPT (Completions/Responses, tools) |
+| `gemini-api` | API Google Gemini (generateContent, tools, stream) |
 | `mvvm-architecture` | Separação View / ViewModel / Model |
 | `typescript-strict` | Tipagem estrita e validação na borda |
 | `api-design` | Contratos HTTP, erros, paginação e authz |
