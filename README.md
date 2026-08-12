@@ -31,6 +31,10 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `react-native-development` | Expo / React Native, navegação e performance mobile |
 | `swiftui-development` | Apps e features SwiftUI |
 | `vapor-swift` | APIs e backends server-side Swift com Vapor 4 e Fluent |
+| `rust` | Linguagem Rust: ownership, async, crates e tooling Cargo |
+| `axum` | APIs HTTP em Rust com Axum, Tower e extractors |
+| `rust-best-practices` | Idioms, Clippy, API design e hygiene de crates Rust |
+| `rust-axum-production` | Axum endurecido para produção (shutdown, observabilidade, deploy) |
 | `golang-apis` | APIs HTTP em Go com Gin |
 | `golang-goroutines` | Concorrência em Go: goroutines, channels e context |
 | `golang-websocket` | WebSockets em Go com Gin e gorilla/websocket |
