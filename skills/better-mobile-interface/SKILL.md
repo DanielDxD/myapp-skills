@@ -7,7 +7,7 @@ description: Define e aplica regras de estilo para interfaces mobile modernas, b
 
 Desenhe telas mobile como um sistema, não como telas soltas. A mesma hierarquia, ritmo e significado visual devem funcionar em Compose e SwiftUI — adaptando componentes nativos, sem clonar pixels cegamente.
 
-Implementação de framework: `jetpack-compose` e `swiftui-development`. Arquitetura: `android-development` / `mvvm-architecture`.
+Implementação de framework: `jetpack-compose` e `swiftui-development`. Arquitetura: `android-development` / `mvvm-architecture`. Para React Native/Expo: `better-mobile-interface-react-native`.
 
 ## Resultado esperado
 

@@ -16,13 +16,15 @@ Mobile-first: performance de lista, safe areas, gestos e diferenças de platafor
 
 ## Navegação
 
-- React Navigation ou Expo Router conforme o repo.
+- Em Expo SDK 56/57+, use `react-native-expo-navigation` (Expo Router; sem `@react-navigation/*` direto no app).
 - Tipar rotas e params.
 - Headers, deep links e estados de auth (stack separada logged-in/out).
 - Evite navegar durante render; faça em efeitos/respostas a ações.
 
 ## UI e layout
 
+- Tokens e light/dark: `better-mobile-interface-react-native`.
+- Mapas, GPS e transporte white-label: `google-maps-sdk`, `geolocation`, `taxi-machine`, etc.
 - `SafeAreaProvider` / insets.
 - Flexbox com cuidado em telas pequenas; teste iPhone SE e Android comum.
 - Toque: área mínima ~44pt; feedback pressionado.

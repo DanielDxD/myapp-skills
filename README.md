@@ -29,6 +29,17 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `react-component-engineering` | Componentes React reutilizáveis e acessíveis |
 | `reactjs-application-development` | SPAs React (Vite, Router, server state) |
 | `react-native-development` | Expo / React Native, navegação e performance mobile |
+| `react-native-expo-navigation` | Expo Router no SDK 57 (Stack/Tabs, typed routes, deep links) |
+| `better-mobile-interface-react-native` | UI RN/Expo moderna com tokens e paridade light/dark |
+| `react-native-live-activities` | Live Activities iOS e ongoing updates Android |
+| `react-native-background-location` | GPS em background (task manager, FGS, stores) |
+| `react-native-realtime-location` | Localização em tempo real em foreground + broadcast |
+| `react-native-routes` | Trajetos no mapa (Directions, polyline, ETA, re-route) |
+| `taxi-machine` | App de transporte white-label (passageiro/motorista) |
+| `google-maps-apis` | Directions, Places, Geocoding e demais APIs HTTP Google |
+| `google-maps-sdk` | MapView nativo (react-native-maps / Expo Maps) |
+| `geolocation` | Obter coordenadas com permissões e accuracy |
+| `reverse-geocoding` | Coordenada → endereço (reverse geocode) |
 | `swiftui-development` | Apps e features SwiftUI |
 | `swift-testing` | Testes Swift Testing (unitário) + XCUITest (interface) |
 | `android-development` | Apps Android nativos com Kotlin e Jetpack |
