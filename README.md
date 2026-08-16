@@ -26,6 +26,8 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `apple-inspired-websites` | Sites de produto estilo apple.com (scrub, carrosséis, comparativos) |
 | `project-discovery` | Mapear stack, arquitetura e riscos antes de editar |
 | `nextjs-architecture` | App Router, server/client, cache e features |
+| `nextjs-server-actions` | Mutações App Router com Server Actions, forms e revalidate |
+| `nextjs-server-actions-security` | Authz, CSRF/origem, IDOR e hardening de Server Actions |
 | `react-component-engineering` | Componentes React reutilizáveis e acessíveis |
 | `reactjs-application-development` | SPAs React (Vite, Router, server state) |
 | `react-native-development` | Expo / React Native, navegação e performance mobile |
