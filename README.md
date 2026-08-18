@@ -64,6 +64,8 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `golang-websocket` | WebSockets em Go com Gin e gorilla/websocket |
 | `golang-unit-testing` | Testes unitários e de handler em Go |
 | `golang-scylladb` | Integração Go com ScyllaDB (gocql/gocqlx) |
+| `golang-video-dash` | Transcode MP4 → MPEG-DASH com FFmpeg e serving VOD em Go |
+| `tus-golang-nextjs` | Upload resumível TUS (tusd/Gin + tus-js-client no Next.js) |
 | `nestjs-microservices` | Microsserviços NestJS (transporters, patterns, hybrid) |
 | `rust-microservices` | Microsserviços em Rust (Axum/tonic, mensageria, outbox) |
 | `microservices-architecture` | Arquitetura de microsserviços: limites, dados, eventos, ops |
