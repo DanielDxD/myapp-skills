@@ -82,6 +82,12 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `api-design` | Contratos HTTP, erros, paginação e authz |
 | `database-prisma` | Schema, migrations e queries Prisma |
 | `database-drizzle` | Schema, migrations e queries Drizzle ORM |
+| `directus-integration` | Integra aplicações com o Directus via API/SDK, consultas e erros |
+| `directus-data-modeling` | Modela Collections, Fields, Relations e constraints no Directus |
+| `directus-auth-permissions` | RBAC, permissões e policies no Directus para segurança |
+| `directus-extensions` | Hooks e flows do Directus para regras de negócio e automações |
+| `directus-files` | Upload e consumo de assets no Directus com permissões e cache |
+| `directus-migrations-import-export` | Migrações/snapshots e import/export de schema/dados no Directus |
 | `tauri` | Apps desktop com Tauri 2 |
 | `authentication-authorization` | Sessões, RBAC, ownership e cookies seguros |
 | `testing-fullstack` | Vitest, Testing Library e Playwright |
