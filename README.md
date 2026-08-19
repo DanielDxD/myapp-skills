@@ -30,6 +30,10 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `nextjs-server-actions-security` | Authz, CSRF/origem, IDOR e hardening de Server Actions |
 | `react-component-engineering` | Componentes React reutilizáveis e acessíveis |
 | `reactjs-application-development` | SPAs React (Vite, Router, server state) |
+| `vue` | SPAs Vue 3.5+ (Composition API, Vite, Router, Pinia) |
+| `nuxt` | Apps Nuxt 4 (app/, Nitro, SSR/híbrido, server routes) |
+| `angular` | Apps Angular 22 (standalone, signals, Signal Forms) |
+| `react-email` | Templates de e-mail React Email 6 (a11y, compatibilidade, design) |
 | `react-native-development` | Expo / React Native, navegação e performance mobile |
 | `react-native-expo-navigation` | Expo Router no SDK 57 (Stack/Tabs, typed routes, deep links) |
 | `better-mobile-interface-react-native` | UI RN/Expo moderna com tokens e paridade light/dark |
@@ -52,6 +56,10 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `design-system` | Tokens, componentes, patterns e governança de design system |
 | `storybook-docs` | Stories CSF, Docs/Autodocs e documentação viva no Storybook |
 | `vapor-swift` | APIs e backends server-side Swift com Vapor 4 e Fluent |
+| `elixir` | Linguagem Elixir: OTP, Mix, GenServer, typespecs e ExUnit |
+| `phoenix` | Apps Phoenix 1.8 (contexts, Ecto, LiveView, scopes) |
+| `ruby` | Linguagem Ruby 3.4: Bundler, Enumerable, Data, testes |
+| `ruby-on-rails` | Apps Rails 8.1 (MVC, Hotwire ou API, Solid*, Kamal) |
 | `rust` | Linguagem Rust: ownership, async, crates e tooling Cargo |
 | `axum` | APIs HTTP em Rust com Axum, Tower e extractors |
 | `rust-best-practices` | Idioms, Clippy, API design e hygiene de crates Rust |
@@ -70,6 +78,8 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `rust-microservices` | Microsserviços em Rust (Axum/tonic, mensageria, outbox) |
 | `microservices-architecture` | Arquitetura de microsserviços: limites, dados, eventos, ops |
 | `terraform` | Infraestrutura como código com Terraform |
+| `docker` | Imagens Docker: multi-stage, non-root, HEALTHCHECK |
+| `docker-compose` | Compose v2: serviços, healthchecks, networks e volumes |
 | `scylladb` | Modelagem CQL, partition keys e operações ScyllaDB |
 | `elasticsearch` | Indexação, Query DSL e aggregations Elasticsearch |
 | `floci` | Emulador local AWS (Floci) para dev e CI |
@@ -100,3 +110,7 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 - Frontmatter exige `name` e `description` (o quê + quando).
 - Skills são autoacionáveis por descrição; requisitos do projeto prevalecem sobre a skill em caso de conflito.
 - `react-component-engineering` cobre APIs de componentes; `reactjs-application-development` cobre a aplicação completa.
+- `vue` cobre SPA Vite; `nuxt` cobre SSR/híbrido e `server/`.
+- `elixir` cobre a linguagem/OTP; `phoenix` cobre HTTP, LiveView e Ecto.
+- `ruby` cobre a linguagem; `ruby-on-rails` cobre o framework.
+- `docker` cobre a imagem; `docker-compose` cobre o stack multi-serviço.
