@@ -89,6 +89,8 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 | `gemini-api` | API Google Gemini (generateContent, tools, stream) |
 | `mvvm-architecture` | Separação View / ViewModel / Model |
 | `typescript-strict` | Tipagem estrita e validação na borda |
+| `typescript-libraries` | Bibliotecas TS publicáveis (exports, tipos, SemVer, peers) |
+| `typescript-frameworks` | Frameworks TS (IoC, plugins, lifecycle, DX) |
 | `api-design` | Contratos HTTP, erros, paginação e authz |
 | `database-prisma` | Schema, migrations e queries Prisma |
 | `database-drizzle` | Schema, migrations e queries Drizzle ORM |
@@ -114,3 +116,4 @@ Substitua `<owner>/myapp-skills` pelo caminho GitHub do repositório após o pub
 - `elixir` cobre a linguagem/OTP; `phoenix` cobre HTTP, LiveView e Ecto.
 - `ruby` cobre a linguagem; `ruby-on-rails` cobre o framework.
 - `docker` cobre a imagem; `docker-compose` cobre o stack multi-serviço.
+- `typescript-libraries` cobre pacotes que o consumidor chama; `typescript-frameworks` cobre IoC, plugins e convenções.
